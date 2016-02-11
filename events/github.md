@@ -26,6 +26,8 @@ Enter your Repository organization / user
 
 Enter your Repository name
 
+Save your repository
+
 # Notes
 
 You can access the hash of the build via expression ```${trigger.hash}```
