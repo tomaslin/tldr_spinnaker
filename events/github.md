@@ -4,7 +4,7 @@ Go to your project's Webhooks page, i.e, https://github.com/spinnaker/igor/setti
 
 Click "Add webhook"
 
-![Github](github.png){ width: 200px; }
+![Github](github.png)
 
 enter http://[spinnakerapi]/webhooks/git/github in the Payload URL where spinnakerapi is the location of your gate installation.
 
