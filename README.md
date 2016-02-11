@@ -4,7 +4,7 @@ Collection of recipes and odds and ends around Spinnaker.
 
 ## Events
 
-Add Github Trigger
+[Add Github Trigger](events/github.md)
 
 Add Stash Trigger
 
