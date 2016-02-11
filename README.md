@@ -6,7 +6,7 @@ Collection of recipes and odds and ends around Spinnaker.
 
 [Add Github Trigger](events/github.md)
 
-Add Stash Trigger
+[Add Stash Trigger](events/stash.md)
 
 [Post Spinnaker events to a Webhook](events/webhooks.md)
 
