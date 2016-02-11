@@ -8,7 +8,7 @@ Collection of recipes and odds and ends around Spinnaker.
 
 Add Stash Trigger
 
-[Post Spinnaker events to a Webhook](events/webhooks.md)
+[Post Spinnaker events to a Webhook](events/webhook.md)
 
 ## Expressions
 
@@ -30,6 +30,8 @@ Promote Pipeline
 
 Provide own settings.js
 
-## Resources
+## More links
 
-Set up okta auth ( Samuel Toriel )
+* [Google Code Lab](http://spinnaker.io/documentation/source-to-prod-codelab.html)
+* [Spinanker Deployment Pipelines ( Samuel Toriel )](http://riltsken.github.io/devops/infrastructure/deploymenttools/2016/02/08/spinnaker-deployment-pipelines.html)
+* [Set up okta auth ( Samuel Toriel )](http://riltsken.github.io/devops/infrastructure/deploymenttools/2015/12/08/setup-okta-saml-with-spinnaker.html)
