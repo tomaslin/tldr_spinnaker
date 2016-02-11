@@ -8,6 +8,8 @@ Collection of recipes and odds and ends around Spinnaker.
 
 Add Stash Trigger
 
+[Post Spinnaker events to a Webhook](events/webhooks.md)
+
 ## Expressions
 
 Fetch Results From an URL
@@ -21,6 +23,8 @@ Make Parameter Optional
 ## Pipelines
 
 Promote Pipeline
+
+## Jenkins Integration
 
 ## Docker Compose
 
