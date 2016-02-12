@@ -79,3 +79,4 @@ Provide own settings.js
 * [Google Code Lab](http://spinnaker.io/documentation/source-to-prod-codelab.html)
 * [Spinanker Deployment Pipelines ( Samuel Toriel )](http://riltsken.github.io/devops/infrastructure/deploymenttools/2016/02/08/spinnaker-deployment-pipelines.html)
 * [Set up okta auth ( Samuel Toriel )](http://riltsken.github.io/devops/infrastructure/deploymenttools/2015/12/08/setup-okta-saml-with-spinnaker.html)
+* [http://blog.greta.io/deploying-nodejs-with-spinnaker/](http://blog.greta.io/deploying-nodejs-with-spinnaker/)
