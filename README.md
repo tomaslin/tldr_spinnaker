@@ -20,11 +20,33 @@ Send JSON to Jenkins
 
 Make Parameter Optional
 
+Getting baked image details
+
+Getting deployed server group details
+
+Getting details from trigger
+
+Getting details from parent pipeline
+
+Accessing parameter values
+
 ## Pipelines
+
+Setting up parameter values
+
+Only execute pipeline stage at a certain time
+
+Optionally Execute a Pipeline
+
+Setting up Deployment Strategy
+
+Passing exteriior image to Deploy Stage 
 
 Promote Pipeline
 
 ## Jenkins Integration
+
+Passing values from jenkins to Spinnaker via property files
 
 ## Docker Compose
 
