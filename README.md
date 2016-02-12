@@ -30,7 +30,11 @@ Getting details from parent pipeline
 
 Accessing parameter values
 
-## Pipelines
+## Jenkins Integration
+
+Passing values from jenkins to Spinnaker via property files
+
+## Pipeline Usage
 
 Setting up parameter values
 
@@ -40,13 +44,29 @@ Optionally Execute a Pipeline
 
 Setting up Deployment Strategy
 
-Passing exteriior image to Deploy Stage 
+Passing exterior image to Deploy Stage 
 
-Promote Pipeline
+Batch Update Pipelines
 
-## Jenkins Integration
+## Pipeline Recipes
 
-Passing values from jenkins to Spinnaker via property files
+Jenkins and Script stages to extend functionality
+
+Use Spinnaker to reduce number of Jenkins jobs
+
+Feature Clusters
+
+Trigger a pipeline on failure
+
+Use a holder cluster
+
+Bake and Quickpatch for smoke testing
+
+Deployment Strategy shared across applications
+
+Ad-hoc Pipelines with Spinnaker API
+
+Generating and storing pipeline permutations
 
 ## Docker Compose
 
