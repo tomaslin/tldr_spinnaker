@@ -30,6 +30,8 @@ Getting details from parent pipeline
 
 Accessing parameter values
 
+Filtering Baked AMIs
+
 ## Jenkins Integration
 
 Passing values from jenkins to Spinnaker via property files
