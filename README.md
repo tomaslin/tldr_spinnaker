@@ -84,3 +84,4 @@ Provide own settings.js
 * [Deploying nodejs with Spinnaker](http://blog.greta.io/deploying-nodejs-with-spinnaker/)
 * [Video: Rick Buskens Microservices Exchange Berlin](https://www.youtube.com/watch?v=UOkZJazycQs)
 * [Video: Netflix OSS Meetup](https://www.youtube.com/watch?v=5s-SS_aXoi0&feature=youtu.be&t=863)
+$ [Spinnaker: Land of 1000 builds. Slides](https://speakerdeck.com/gregturn/spinnaker-land-of-a-1000-builds)
