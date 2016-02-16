@@ -52,6 +52,8 @@ Batch Update Pipelines
 
 ## Pipeline Recipes
 
+[Run a cleanup pipeline when parent pipeline fails](recipes/cleanup.md)
+
 Jenkins and Script stages to extend functionality
 
 Use Spinnaker to reduce number of Jenkins jobs
