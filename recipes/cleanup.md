@@ -21,4 +21,5 @@ For example, if I want to check that the stage that failed was called Jenkins, I
 ```
 trigger.parentExecution.stages.?[ status == 'TERMINAL' ][0].name == 'Jenkins'
 ```
-4. add any stages contingent after this stage. 
+
+You can then add any stages that clean up after this stage. 
