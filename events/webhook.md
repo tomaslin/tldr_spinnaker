@@ -99,9 +99,9 @@ Events have a details, which will always be the same.
 
 The type of the event will outline where the event is coming from:
 
-orca:[task type]:[status] - where task type is either 'pipeline', 'stage' or 'task' and status is 'starting', 'completed', 'failed'
-build - from igor
-github - from git web triggers
+* orca:[task type]:[status] - where task type is either 'pipeline', 'stage' or 'task' and status is 'starting', 'completed', 'failed'
+* build - from igor
+* git - from git web triggers
 
 ### details.application
 
